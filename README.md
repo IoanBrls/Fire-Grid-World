@@ -1,6 +1,7 @@
 # Fire-Grid-World
 Value Iteration application for simulating a firefighting scenario on a grid created using Java.
-Curriculum project for Autonomous Agents course (COMP 513).
+
+Curriculum project for Autonomous Agents course (COMP 513) at Technical University of Crete.
 
 How to use:
 1. Choose the size of the grid and some Value iteration specific variables.
